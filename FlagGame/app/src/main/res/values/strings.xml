@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Flag</string>
+    <string name="guess_the_country"> GUESS THE COUNTRY </string>
+    <string name="textview">TextView</string>
+    <string name="guess_hints"> GUESS-HINTS </string>
+    <string name="guess_the_flag"> GUESS THE FLAG </string>
+    <string name="advanced_level"> ADVANCED LEVEL </string>
+    <string name="submit_button">SUBMIT</string>
+    <string name="makeToast_Submit_Right">Correct!</string>
+    <string name="makeToast_Submit_Wrong">Wrong!</string>
+    <string name="guess_country_title">Guess Country: </string>
+    <string name="button_next">Next</string>
+    <string name="showCorrectAnswer">Correct Answer: </string>
+    <string name="showNothing"></string>
+    <string name="submit_button2">SUBMIT</string>
+    <string name="guess_a_letter"></string>
+    <string name="flag1">Flag1: </string>
+    <string name="submit">Submit</string>
+    <string name="nothing"></string>
+
+
+
+    <string-array name="country_arrays">
+        <item>Europe</item>
+        <item>United States of America</item>
+        <item>South America</item>
+    </string-array>
+
+
+</resources>

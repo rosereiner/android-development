@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CookingHelper</string>
+    <string name="saveData">Your Availability Preferences Are Saved</string>
+    <string name="addInKitchen">Your selected products are now available in the kitchen!</string>
+    <string name="registerProducts">Product Added!</string>
+</resources>
